@@ -9,7 +9,7 @@
 <!-- Here are some ideas to get you started: -->
 ## About me
 - 🤔 I’m Hongxing Li, a programmer who loves to ride and be outdoors.
-- 🔭 I’m currently working on cqupt
+- 🔭 I’m currently working on alibaba group.
 - 🌱 My work focuses on back-end development, deep learning, and more.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
